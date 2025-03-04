@@ -86,18 +86,8 @@ Enhanced Patient Experience: Monitoring wait times improves efficiency.
 
 Data-Driven Decision Making: Real-time analytics for hospital administrators.
 
-## Challenges and Learnings
-
-Handling inconsistent data formats.
-
-Ensuring real-time updates and accurate visual representation.
-
-### How to Use
 
 
-## Open Power BI and load the dataset.
-## Perform data processing and modeling.
-## Build dashboard and analyze insights.
 
 
 
