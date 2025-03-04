@@ -51,6 +51,9 @@ Created interactive reports for trend analysis.
 
 ## KPI Requirements
 
+
+![image alt](https://github.com/Kingsli-A/Hospital-Emergency-Room-Data-Analysis-Dashboard-Power-BI-Project/blob/56a950f6dce0813a864f54a825440099ee361fa6/dashboard.png)
+
 ## Number of Patients
 
 Tracks daily ER visits.
