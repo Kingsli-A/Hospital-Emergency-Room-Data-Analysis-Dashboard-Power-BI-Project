@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Data-Analysis
+# Hospital Emergency Room Data Analysis
 
 ## Project Overview
 
