@@ -76,12 +76,6 @@ Tracks referrals to specific departments.
 Helps optimize resource allocation.
 
 
-### Preview
-[![Preview]("![Hospital ER analysis preview](https://github.com/user-attachments/assets/2eb8fb52-f9f1-4bb3-910c-1827828229f6)
-")
-[![Watch the video]("https://github.com/AritriPodde2210/Hospital-Emergency-Room-Data-Analysis/blob/main/Screen%20Recording%202025-02-11%20225059.mp4")
-
-
 
 
 ## Insights & Benefits
@@ -105,12 +99,6 @@ Ensuring real-time updates and accurate visual representation.
 ## Perform data processing and modeling.
 ## Build dashboard and analyze insights.
 
-Contribution & Feedback
 
-Feel free to contribute or report issues via GitHub.
 
-Open a pull request for enhancements.
 
-### Contact
-
-Email: [reach.aritripodder@gmail.com]LinkedIn: [https://www.linkedin.com/in/aritri-podder-749887226/]
